@@ -8,6 +8,15 @@
       "expo-router"
     ],
     "name": "native-job",
-    "slug": "native-job"
+    "slug": "job-hunt",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3b5a3a4e-fce2-46ed-8b02-3a639b970e61"
+      }
+    },
+    "owner": "rendipurnomo"
   }
 }
